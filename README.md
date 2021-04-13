@@ -1,12 +1,12 @@
 # Android-Attendance-System
-#Download APK 
+# Download APK 
 [app-debug.zip](https://github.com/3mdikram/Android-Attendance-A/files/6306179/app-debug.zip)
 
  
 
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
 
-#Features Available
+# Features Available
 
 Admin Module
 
@@ -24,7 +24,7 @@ View Student Attendance.
 
 View each student’s attendance separately
 
-#Teacher Module
+# Teacher Module
 
 Take attendance and keep them class wise
 
