@@ -1,6 +1,5 @@
 # Android-Attendance-System
-# Download APK 
-[app-debug.zip](https://github.com/3mdikram/Android-Attendance-A/files/6306179/app-debug.zip)
+# Download APK [app-debug.zip](https://github.com/3mdikram/Android-Attendance-A/files/6306179/app-debug.zip)
 
  
 
